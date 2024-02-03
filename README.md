@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p>
-    <img src="https://api.vaunt.dev/v1/github/entities/github_username/achievements?format=svg&limit=3&raw=true" width="350" />
+    <img src="https://api.vaunt.dev/v1/github/entities/Anyr00d/achievements?format=svg&limit=3&raw=true" width="350" />
 </p>
